@@ -1,0 +1,8 @@
+newmtl sm9365_Stretcher01B_A_Mat
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 32.000000
+map_Kd sm9365_Stretcher01B_A_ALBM.png
+map_Ks sm9365_Stretcher01B_A_ALBM.png
+map_bump sm9365_Stretcher01B_A_NRMR.png
+

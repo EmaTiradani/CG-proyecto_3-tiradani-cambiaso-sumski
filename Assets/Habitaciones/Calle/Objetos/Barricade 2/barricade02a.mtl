@@ -1,0 +1,6 @@
+newmtl sm0004_0000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 32.000000
+map_Kd sm0004_barricade02a_albm.png
+map_Ks sm0004_barricade02a_albm.png

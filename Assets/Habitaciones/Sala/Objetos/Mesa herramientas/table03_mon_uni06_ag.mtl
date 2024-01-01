@@ -1,0 +1,33 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 27.02.2021 23:03:43
+
+newmtl cas02_obj_uni06_ag_mat_INST_wood
+	Ns 5.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka case02_mon_ag_d.png
+	map_Kd case02_mon_ag_d.png
+	map_bump case02_obj_uni06_ag_n.png
+	bump case02_obj_uni06_ag_n.png
+
+newmtl chair_glass01_obj_uni06_mat_INST
+	Ns 5.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka chair_glass01_obj_uni06_ag_d.png
+	map_Kd chair_glass01_obj_uni06_ag_d.png
+	map_d chair_glass01_obj_uni06_ag_alpha.png
